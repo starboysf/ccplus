@@ -1,0 +1,15 @@
+08:40:11 **** Incremental Build of configuration Debug for project TestingTesting ****
+make all 
+Building file: ../src/TestingTesting.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestingTesting.d" -MT"src/TestingTesting.o" -o "src/TestingTesting.o" "../src/TestingTesting.cpp"
+Finished building: ../src/TestingTesting.cpp
+ 
+Building target: TestingTesting
+Invoking: MacOS X C++ Linker
+g++  -o "TestingTesting"  ./src/TestingTesting.o   
+Finished building target: TestingTesting
+ 
+
+08:40:11 Build Finished. 0 errors, 0 warnings. (took 504ms)
+

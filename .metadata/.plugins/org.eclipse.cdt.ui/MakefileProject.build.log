@@ -1,0 +1,6 @@
+13:59:44 **** Build of configuration Default for project MakefileProject ****
+make all 
+make: Nothing to be done for `all'.
+
+13:59:45 Build Finished. 0 errors, 0 warnings. (took 1s.121ms)
+
